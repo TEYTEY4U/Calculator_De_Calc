@@ -18,15 +18,15 @@ background-color:cyan;
 margin-top:20px;
 padding:10px 10px;
 heigth:70px;
-width:500px;
+width:800px;
 margin-left:4px;
 }
 button{
 border-radius:60px 60px;
-margin-top:30px;
+margin-top:50px;
 margin-left:13px;
-padding:10px 10px;
-height:50px;
+padding:20px 20px;
+height:150px;
 width:200px;
 }
 button:hover{
