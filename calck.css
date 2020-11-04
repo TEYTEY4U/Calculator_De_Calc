@@ -39,7 +39,7 @@ border:3px solid none;
 background-color:crimson;
 border:3px solid none;
 }
-@media (max-width:1366px){
+@media only on screen(max-width:1366px){
 h1{
 margin-top:50px;
 font-size: 70px;
